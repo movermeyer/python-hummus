@@ -1,6 +1,6 @@
 # python-hummus
-[![PyPi Version](https://pypip.in/v/hummus/badge.png)](https://pypi.python.org/pypi/hummus)
-![PyPi Downloads](https://pypip.in/d/hummus/badge.png)
+[![PyPi Version](https://img.shields.io/pypi/v/hummus.svg)](https://pypi.python.org/pypi/hummus)
+![PyPi Downloads](https://img.shields.io/pypi/dm/hummus.svg)
 > Pythonic API for hummus, the fast and free PDF reader / writer.
 
 ## Install
